@@ -11,8 +11,8 @@ I want to be a game maker, software developer and maybe a Database manager, I al
 
 # 💻 Tech Stack:
 
-![Git](https://skillicons.dev/icons?i=github,c,python,mysql,gamemakerstudio,godot,vscode,git)
-Most well known being C and somewhat of MySQL.
+![Git](https://skillicons.dev/icons?i=github,c,python,mysql,gamemakerstudio,godot,vscode,git)<br>
+Most well known being C and somewhat of MySQL.<br>
 Learning Python, gamemakerstudio and godot.
 
 # 🖥Status:️
